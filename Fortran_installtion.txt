@@ -1,0 +1,6 @@
+Fortran的安装
+
+1.下载安装Visual Studio 安装程序在上一个目录下，注意，安装后重启电脑
+2.下载安装Intel oneapi，安装程序在上一个目录
+
+具体安装教程：【Fortran的安装】https://www.bilibili.com/video/BV1UG41137x4?vd_source=2e80a045c3295f69fa0a04277254dad8
